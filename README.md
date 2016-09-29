@@ -12,4 +12,4 @@
 *Separar un pan en mitades iguales
 *Poner todos los ingredientes
 *Comer
-![diagrama_de_flujo/imagen.jpg](img/diagrama_de_flujo/imagen.jpg)
+![imagen.jpg](diagrama_de_flujo/imagen.jpg)
